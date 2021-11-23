@@ -1,0 +1,7 @@
+F:\Users\Owner\Documents\breindy\Recursive\bin\Debug\Recursive.exe.config
+F:\Users\Owner\Documents\breindy\Recursive\bin\Debug\Recursive.exe
+F:\Users\Owner\Documents\breindy\Recursive\bin\Debug\Recursive.pdb
+F:\Users\Owner\Documents\breindy\Recursive\obj\Debug\Recursive.csprojAssemblyReference.cache
+F:\Users\Owner\Documents\breindy\Recursive\obj\Debug\Recursive.csproj.CoreCompileInputs.cache
+F:\Users\Owner\Documents\breindy\Recursive\obj\Debug\Recursive.exe
+F:\Users\Owner\Documents\breindy\Recursive\obj\Debug\Recursive.pdb
