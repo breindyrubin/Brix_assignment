@@ -1,0 +1,7 @@
+F:\Users\Owner\Documents\breindy\MinMaxSum\obj\Debug\MinMaxSum.csprojAssemblyReference.cache
+F:\Users\Owner\Documents\breindy\MinMaxSum\obj\Debug\MinMaxSum.csproj.CoreCompileInputs.cache
+F:\Users\Owner\Documents\breindy\MinMaxSum\bin\Debug\MinMaxSum.exe.config
+F:\Users\Owner\Documents\breindy\MinMaxSum\bin\Debug\MinMaxSum.exe
+F:\Users\Owner\Documents\breindy\MinMaxSum\bin\Debug\MinMaxSum.pdb
+F:\Users\Owner\Documents\breindy\MinMaxSum\obj\Debug\MinMaxSum.exe
+F:\Users\Owner\Documents\breindy\MinMaxSum\obj\Debug\MinMaxSum.pdb
