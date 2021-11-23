@@ -34,13 +34,14 @@ namespace Recursive
 
         static void Main(string[] args)
         {
-            Console.WriteLine("please enter a number :");
-           string a = Console.ReadLine();
-            Console.WriteLine("please enter a number :");
-           string b = Console.ReadLine();
-            int g = SuperDigit(a, Int32.Parse(b));
-            Console.WriteLine(g);
-            Console.Read();
+           Console.WriteLine("please enter a number then a space, and then another number :");
+           string numbers = Console.ReadLine();
+           string[] numbersArr = numbers.Split(' ');
+           string stringRepresentation = numbersArr[0];
+           string timesToConcantenate = numbersArr[1];
+           int superDigit = SuperDigit(stringRepresentation, Int32.Parse(timesToConcantenate));
+           Console.WriteLine(superDigit);
+           Console.Read();
         }
     }
 }
