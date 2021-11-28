@@ -30,7 +30,7 @@ namespace MinMaxSum
             Console.WriteLine("please enter five numbers with spaces in between:");
             string numbers = Console.ReadLine();
             long[] numbersArr = numbers.Split(' ').Select(Int64.Parse).ToArray();
-            if (numbersArr.Length > 5 || numbersArr.Length < 6)
+            if (numbersArr.Length > 5 || numbersArr.Length < 5)
             {
                 throw new FormatException( "input too long/short!");
             }
